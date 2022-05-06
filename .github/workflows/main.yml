@@ -21,7 +21,7 @@ env:
 jobs:
   job1:
     ## The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
    # env:
  ## Environment variable
       #  name: "vikram"
